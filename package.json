@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-studies-reminder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zec4o/whatsapp-studies-reminder.git",
+  "author": "José Malty Soares <josemalty@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.5",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
