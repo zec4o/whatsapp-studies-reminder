@@ -9,7 +9,15 @@
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^6.7.5",
     "dotenv": "^16.4.5",
+    "google-auth-library": "^9.14.1",
+    "googleapis": "^144.0.0",
     "node-cron": "^3.0.3",
-    "qrcode-terminal": "^0.12.0"
+    "qrcode-terminal": "^0.12.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "@types/node-cron": "^3.0.11",
+    "@types/qrcode-terminal": "^0.12.2"
   }
 }
